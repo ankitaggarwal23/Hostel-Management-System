@@ -21,9 +21,9 @@ We can improve the efficiency of the system, thus overcome the drawbacks of the 
 - XAMPP server
 
 # Language Used:
-- Front End(User Interface) HTML 5 , CSS,JAVASCRIPT
-- Server Language PHP 5.5
-- Backe End MYSQL
+- Front End(User Interface): HTML5, CSS, JAVASCRIPT
+- Server Language: PHP 5.5
+- BackEnd: MYSQL
 
 # Installation Steps(Configuration):
 - Download and Unzip file on your local system.
